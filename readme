@@ -1,0 +1,8 @@
+This is one of my previous homework assignments. 
+
+Some of my assignments are 100% done from scratch, while others are based off of a skeleton I was provided. 
+They might be useful for some of you out there, but their real intent is to document my progress... and hopefully look back and feel proud at some point?
+
+Later assignments are 100% from scratch. This program comes with three files. Some of the files in other HW-assignment-based repos may not include all of the files as they were included but not done by me. I worked on this with a partner, we did most of the programming you see there, though there was a basic skeleton. We definitely set up the accessors and manipulators in the viewer, we also set up the for loop to paint the graphics we had drawn. Overall, most of it was done by us. We worked as pair programmers, so there aren't explicit parts where one person worked on one file or one section of that file.
+
+This is a great resource if someone were to ever decide to implement a map application of some sort. Two maps load upon execution. One map is of regular size, the other map is magnified and offsetted. This does not use event handlers.
